@@ -4,7 +4,7 @@
     "name": "Structure Deck: Seto Kaiba",
     "type": "Structure Deck",
     "date": "2016-06-18",
-    "distribution": "structure_deck",
+    "distribution": "",
     "prefix": "SDKS",
     "sub_sets": [],
     "load": true,

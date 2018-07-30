@@ -4,7 +4,7 @@
     "name": "Gold Series",
     "type": "Booster Pack",
     "date": "2008-04-02",
-    "distribution": "booster_pack",
+    "distribution": "booster_gold_series",
     "prefix": "GLD1",
     "sub_sets": [],
     "load": true,

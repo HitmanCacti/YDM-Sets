@@ -4,7 +4,7 @@
     "name": "Starter Deck: Kaiba",
     "type": "Starter Deck",
     "date": "2002-03-29",
-    "distribution": "starter_deck",
+    "distribution": "",
     "prefix": "SDK",
     "sub_sets": [],
     "load": false,
