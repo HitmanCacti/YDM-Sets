@@ -1,0 +1,254 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Premium Collection Tin",
+    "type": "Special Edition Promo Cards",
+    "date": "2012-03-15",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "PRC1",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Meteor Dragon",
+        "set_number": "PRC1-FR001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Beastly Mirror Ritual",
+        "set_number": "PRC1-FR002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Fiend's Mirror",
+        "set_number": "PRC1-FR003",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Meteor B. Dragon",
+        "set_number": "PRC1-FR004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Firewing Pegasus",
+        "set_number": "PRC1-FR005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Quick-Span Knight",
+        "set_number": "PRC1-FR006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Armored Bee",
+        "set_number": "PRC1-FR007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Great Poseidon Beetle",
+        "set_number": "PRC1-FR008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Junk Forward",
+        "set_number": "PRC1-FR009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Fallen Angel of Roses",
+        "set_number": "PRC1-FR010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Machina Cannon",
+        "set_number": "PRC1-FR011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Blaze Fenix, the Burning Bombardment Bird",
+        "set_number": "PRC1-FR012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Scarred Warrior",
+        "set_number": "PRC1-FR013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Kagemucha Knight",
+        "set_number": "PRC1-FR014",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Photon Wyvern",
+        "set_number": "PRC1-FR015",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Rosaria, the Stately Fallen Angel",
+        "set_number": "PRC1-FR016",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Ma'at",
+        "set_number": "PRC1-FR017",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Masked HERO Acid",
+        "set_number": "PRC1-FR018",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Masked HERO Dian",
+        "set_number": "PRC1-FR019",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Gravity Warrior",
+        "set_number": "PRC1-FR020",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Void Ogre Dragon",
+        "set_number": "PRC1-FR021",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Photon Sanctuary",
+        "set_number": "PRC1-FR022",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Photon Current",
+        "set_number": "PRC1-FR023",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Elemental HERO The Shining",
+        "set_number": "PRC1-FRV01",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

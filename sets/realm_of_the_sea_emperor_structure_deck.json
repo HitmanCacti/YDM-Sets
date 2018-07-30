@@ -1,0 +1,404 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Realm of the Sea Emperor Structure Deck",
+    "type": "Structure Deck",
+    "date": "2012-10-10",
+    "distribution": "structure_deck",
+    "prefix": "SDRE",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Poseidra, the Atlantean Dragon",
+        "set_number": "SDRE-FR001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Atlantean Dragoons",
+        "set_number": "SDRE-FR002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Atlantean Marksman",
+        "set_number": "SDRE-FR003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Atlantean Heavy Infantry",
+        "set_number": "SDRE-FR004",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Atlantean Pikeman",
+        "set_number": "SDRE-FR005",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Atlantean Attack Squad",
+        "set_number": "SDRE-FR006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lost Blue Breaker",
+        "set_number": "SDRE-FR007",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Armed Sea Hunter",
+        "set_number": "SDRE-FR008",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spined Gillman",
+        "set_number": "SDRE-FR009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Deep Sea Diva",
+        "set_number": "SDRE-FR010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mermaid Archer",
+        "set_number": "SDRE-FR011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Codarus",
+        "set_number": "SDRE-FR012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Warrior of Atlantis",
+        "set_number": "SDRE-FR013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Abyss Soldier",
+        "set_number": "SDRE-FR014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Skreech",
+        "set_number": "SDRE-FR015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Snowman Eater",
+        "set_number": "SDRE-FR016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Nightmare Penguin",
+        "set_number": "SDRE-FR017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Penguin Soldier",
+        "set_number": "SDRE-FR018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Deep Diver",
+        "set_number": "SDRE-FR019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Reese the Ice Mistress",
+        "set_number": "SDRE-FR020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mother Grizzly",
+        "set_number": "SDRE-FR021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Friller Rabca",
+        "set_number": "SDRE-FR022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Call of the Atlanteans",
+        "set_number": "SDRE-FR023",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "A Legendary Ocean",
+        "set_number": "SDRE-FR024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Terraforming",
+        "set_number": "SDRE-FR025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Water Hazard",
+        "set_number": "SDRE-FR026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Aqua Jet",
+        "set_number": "SDRE-FR027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Surface",
+        "set_number": "SDRE-FR028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Moray of Greed",
+        "set_number": "SDRE-FR029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Salvage",
+        "set_number": "SDRE-FR030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Hole",
+        "set_number": "SDRE-FR031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Big Wave Small Wave",
+        "set_number": "SDRE-FR032",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Aegis of the Ocean Dragon Lord",
+        "set_number": "SDRE-FR033",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Forgotten Temple of the Deep",
+        "set_number": "SDRE-FR034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tornado Wall",
+        "set_number": "SDRE-FR035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Torrential Tribute",
+        "set_number": "SDRE-FR036",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spiritual Water Art - Aoi",
+        "set_number": "SDRE-FR037",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gravity Bind",
+        "set_number": "SDRE-FR038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Poseidon Wave",
+        "set_number": "SDRE-FR039",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Legendary Collection",
+    "type": "Legendary Collection",
+    "date": "2010-09-30",
+    "distribution": "legendary_collection",
+    "prefix": "LC01",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Obelisk the Tormentor",
+        "set_number": "LC01-DE001",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Slifer the Sky Dragon",
+        "set_number": "LC01-DE002",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "The Winged Dragon of Ra",
+        "set_number": "LC01-DE003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Blue-Eyes White Dragon",
+        "set_number": "LC01-DE004",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Magician",
+        "set_number": "LC01-DE005",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Red-Eyes B. Dragon",
+        "set_number": "LC01-DE006",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

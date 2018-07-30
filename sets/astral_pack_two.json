@@ -1,0 +1,264 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Astral Pack Two",
+    "type": "Astral Pack",
+    "date": "2013-04-18",
+    "distribution": "astral_pack",
+    "prefix": "AP02",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Atlantean Dragoons",
+        "set_number": "AP02-FR001",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Photon Papilloperative",
+        "set_number": "AP02-FR002",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Spellbook of Power",
+        "set_number": "AP02-FR003",
+        "rarities": [
+          "Ultimate Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1
+        }
+      },
+      {
+        "card_name": "Interplanetarypurplythorny Dragon",
+        "set_number": "AP02-FR004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Geargiaccelerator",
+        "set_number": "AP02-FR005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Atlantean Heavy Infantry",
+        "set_number": "AP02-FR006",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Slushy",
+        "set_number": "AP02-FR007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Brotherhood of the Fire Fist - Hawk",
+        "set_number": "AP02-FR008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Brotherhood of the Fire Fist - Raven",
+        "set_number": "AP02-FR009",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Harpies' Hunting Ground",
+        "set_number": "AP02-FR010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gemini Spark",
+        "set_number": "AP02-FR011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Spiritual Water Art - Aoi",
+        "set_number": "AP02-FR012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Trap Stun",
+        "set_number": "AP02-FR013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Sky Scout",
+        "set_number": "AP02-FR014",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Cyber Phoenix",
+        "set_number": "AP02-FR015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Light and Darkness Dragon",
+        "set_number": "AP02-FR016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Justice of Prophecy",
+        "set_number": "AP02-FR017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Barox",
+        "set_number": "AP02-FR018",
+        "rarities": [
+          "Short Print"
+        ],
+        "count": {
+          "Short Print": 1
+        }
+      },
+      {
+        "card_name": "Pot of Avarice",
+        "set_number": "AP02-FR019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Instant Fusion",
+        "set_number": "AP02-FR020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Recycling Batteries",
+        "set_number": "AP02-FR021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Machina Armored Unit",
+        "set_number": "AP02-FR022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Photon Veil",
+        "set_number": "AP02-FR023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hysteric Party",
+        "set_number": "AP02-FR024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Token Stampede",
+        "set_number": "AP02-FR025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

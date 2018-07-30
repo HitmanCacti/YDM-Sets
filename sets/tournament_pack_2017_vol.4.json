@@ -1,0 +1,164 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Tournament Pack 2017 Vol.4",
+    "type": "Booster Pack",
+    "date": "2017-10-01",
+    "distribution": "booster_pack",
+    "prefix": "17TP",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Des Lacooda",
+        "set_number": "17TP-JP401",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Blowback Dragon",
+        "set_number": "17TP-JP402",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Dark - Hex-Sealed Fusion",
+        "set_number": "17TP-JP403",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mythical Beast Cerberus",
+        "set_number": "17TP-JP404",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Armored Cybern",
+        "set_number": "17TP-JP405",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ojama Blue",
+        "set_number": "17TP-JP406",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Warm Worm",
+        "set_number": "17TP-JP407",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Insect Imitation",
+        "set_number": "17TP-JP408",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ancient City - Rainbow Ruins",
+        "set_number": "17TP-JP409",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Spell Gear",
+        "set_number": "17TP-JP410",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magical Citadel of Endymion",
+        "set_number": "17TP-JP411",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Court of Justice",
+        "set_number": "17TP-JP412",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Michizure",
+        "set_number": "17TP-JP413",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Burst Rebirth",
+        "set_number": "17TP-JP414",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dragonoid Token",
+        "set_number": "17TP-JP416",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

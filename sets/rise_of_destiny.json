@@ -1,0 +1,636 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Rise of Destiny",
+    "type": "Booster Pack",
+    "date": "2004-08-05",
+    "distribution": "booster_pack",
+    "prefix": "RDS",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Woodborg Inpachi",
+        "set_number": "RDS-JP001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mighty Guard",
+        "set_number": "RDS-JP002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Bokoichi the Freightening Car",
+        "set_number": "RDS-JP003",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Harpie Girl",
+        "set_number": "RDS-JP004",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "The Creator",
+        "set_number": "RDS-JP005",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "The Creator Incarnate",
+        "set_number": "RDS-JP006",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Ultimate Insect LV3",
+        "set_number": "RDS-JP007",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Mystic Swordsman LV6",
+        "set_number": "RDS-JP008",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Silent Swordsman LV3",
+        "set_number": "RDS-JP009",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Nightmare Penguin",
+        "set_number": "RDS-JP010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Heavy Mech Support Platform",
+        "set_number": "RDS-JP011",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Perfect Machine King",
+        "set_number": "RDS-JP012",
+        "rarities": [
+          "Ultimate Rare",
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Element Magician",
+        "set_number": "RDS-JP013",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Element Saurus",
+        "set_number": "RDS-JP014",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Roc from the Valley of Haze",
+        "set_number": "RDS-JP015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Sasuke Samurai #4",
+        "set_number": "RDS-JP016",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Harpie Lady 1",
+        "set_number": "RDS-JP017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Harpie Lady 2",
+        "set_number": "RDS-JP018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Harpie Lady 3",
+        "set_number": "RDS-JP019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Raging Flame Sprite",
+        "set_number": "RDS-JP020",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Thestalos the Firestorm Monarch",
+        "set_number": "RDS-JP021",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Eagle Eye",
+        "set_number": "RDS-JP022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tactical Espionage Expert",
+        "set_number": "RDS-JP023",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Invasion of Flames",
+        "set_number": "RDS-JP024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Creeping Doom Manta",
+        "set_number": "RDS-JP025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Pitch-Black Warwolf",
+        "set_number": "RDS-JP026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mirage Dragon",
+        "set_number": "RDS-JP027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gaia Soul the Combustible Collective",
+        "set_number": "RDS-JP028",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Fox Fire",
+        "set_number": "RDS-JP029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "B.E.S. Big Core",
+        "set_number": "RDS-JP030",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Fusilier Dragon, the Dual-Mode Beast",
+        "set_number": "RDS-JP031",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Dekoichi the Battlechanted Locomotive",
+        "set_number": "RDS-JP032",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "A-Team: Trap Disposal Unit",
+        "set_number": "RDS-JP033",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Homunculus the Alchemic Being",
+        "set_number": "RDS-JP034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Blade the Dragon Knight",
+        "set_number": "RDS-JP035",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Mokey Mokey King",
+        "set_number": "RDS-JP036",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Serial Spell",
+        "set_number": "RDS-JP037",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Harpies' Hunting Ground",
+        "set_number": "RDS-JP038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Triangle Ecstasy Spark",
+        "set_number": "RDS-JP039",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Necklace of Command",
+        "set_number": "RDS-JP040",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Machine Duplication",
+        "set_number": "RDS-JP041",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Flint",
+        "set_number": "RDS-JP042",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Mokey Mokey Smackdown",
+        "set_number": "RDS-JP043",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Back to Square One",
+        "set_number": "RDS-JP044",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Monster Reincarnation",
+        "set_number": "RDS-JP045",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ballista of Rampart Smashing",
+        "set_number": "RDS-JP046",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lighten the Load",
+        "set_number": "RDS-JP047",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Malice Dispersion",
+        "set_number": "RDS-JP048",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Tragedy",
+        "set_number": "RDS-JP049",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Divine Wrath",
+        "set_number": "RDS-JP050",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Xing Zhen Hu",
+        "set_number": "RDS-JP051",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rare Metalmorph",
+        "set_number": "RDS-JP052",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Fruits of Kozaky's Studies",
+        "set_number": "RDS-JP053",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mind Haxorz",
+        "set_number": "RDS-JP054",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fuh-Rin-Ka-Zan",
+        "set_number": "RDS-JP055",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Chain Burst",
+        "set_number": "RDS-JP056",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      },
+      {
+        "card_name": "Pikeru's Circle of Enchantment",
+        "set_number": "RDS-JP057",
+        "rarities": [
+          "Ultimate Rare",
+          "Super Rare"
+        ],
+        "count": {
+          "Ultimate Rare": 1,
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Spell Purification",
+        "set_number": "RDS-JP058",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Astral Barrier",
+        "set_number": "RDS-JP059",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Covering Fire",
+        "set_number": "RDS-JP060",
+        "rarities": [
+          "Rare"
+        ],
+        "count": {
+          "Rare": 1
+        }
+      }
+    ]
+  }
+}

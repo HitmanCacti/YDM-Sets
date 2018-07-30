@@ -1,0 +1,104 @@
+{
+  "status": "success",
+  "set": {
+    "name": "2013 Collectible Tins Wave 2",
+    "type": "Special Edition Promo Cards",
+    "date": "2013-11-21",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "CT10",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Redox, Dragon Ruler of Boulders",
+        "set_number": "CT10-FR003",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Tempest, Dragon Ruler of Storms",
+        "set_number": "CT10-FR004",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      },
+      {
+        "card_name": "Diamond Dire Wolf",
+        "set_number": "CT10-FR012",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 88: Gimmick Puppet of Leo",
+        "set_number": "CT10-FR013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Spellbook of the Master",
+        "set_number": "CT10-FR014",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Rank-Up-Magic Barian's Force",
+        "set_number": "CT10-FR015",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Thunder Sea Horse",
+        "set_number": "CT10-FR016",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Gear Gigant X",
+        "set_number": "CT10-FR017",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 50: Blackship of Corn",
+        "set_number": "CT10-FR018",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}

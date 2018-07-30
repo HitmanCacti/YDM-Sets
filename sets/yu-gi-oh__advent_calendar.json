@@ -1,0 +1,254 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Yu-Gi-Oh! Advent Calendar",
+    "type": "Special Edition Promo Cards",
+    "date": "2011-10-13",
+    "distribution": "special_edition_promo_cards",
+    "prefix": "AC11",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Junk Synchron",
+        "set_number": "AC11-DE001",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Morphtronic Remoten",
+        "set_number": "AC11-DE002",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Black-Winged Dragon",
+        "set_number": "AC11-DE003",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Sunny Pixie",
+        "set_number": "AC11-DE004",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Kalut the Moon Shadow",
+        "set_number": "AC11-DE005",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Red Dragon Archfiend",
+        "set_number": "AC11-DE006",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Shield Warrior",
+        "set_number": "AC11-DE007",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Twin-Sword Marauder",
+        "set_number": "AC11-DE008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Formula Synchron",
+        "set_number": "AC11-DE009",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Rose Tentacles",
+        "set_number": "AC11-DE010",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Nitro Synchron",
+        "set_number": "AC11-DE011",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Ancient Fairy Dragon",
+        "set_number": "AC11-DE012",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Sirocco the Dawn",
+        "set_number": "AC11-DE013",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Sunlight Unicorn",
+        "set_number": "AC11-DE014",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Power Tool Dragon",
+        "set_number": "AC11-DE015",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Kuribon",
+        "set_number": "AC11-DE016",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Big Piece Golem",
+        "set_number": "AC11-DE017",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Rose Dragon",
+        "set_number": "AC11-DE018",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Morphtronic Boomboxen",
+        "set_number": "AC11-DE019",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Dark Resonator",
+        "set_number": "AC11-DE020",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Nitro Warrior",
+        "set_number": "AC11-DE021",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Rose Fairy",
+        "set_number": "AC11-DE022",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Blackwing - Aurora the Northern Lights",
+        "set_number": "AC11-DE023",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Stardust Dragon",
+        "set_number": "AC11-DE024",
+        "rarities": [
+          "Secret Rare"
+        ],
+        "count": {
+          "Secret Rare": 1
+        }
+      }
+    ]
+  }
+}

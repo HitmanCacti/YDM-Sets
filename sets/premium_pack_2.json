@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Premium Pack 2",
+    "type": "Premium Pack",
+    "date": "1999-12-18",
+    "distribution": "premium_pack",
+    "prefix": "",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Beastly Mirror Ritual",
+        "set_number": "",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Luster Ritual",
+        "set_number": "",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Black Luster Soldier",
+        "set_number": "",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Fiend's Mirror",
+        "set_number": "",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Super War-Lion",
+        "set_number": "",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "War-Lion Ritual",
+        "set_number": "",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Zera Ritual",
+        "set_number": "",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Zera the Mant",
+        "set_number": "",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      }
+    ]
+  }
+}

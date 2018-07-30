@@ -1,0 +1,610 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Star Pack ARC-V",
+    "type": "Star Pack",
+    "date": "2015-06-12",
+    "distribution": "star_pack",
+    "prefix": "SP15",
+    "sub_sets": [],
+    "load": false,
+    "cards": [
+      {
+        "card_name": "Gem-Knight Tourmaline",
+        "set_number": "SP15-PT001",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Swamp Battleguard",
+        "set_number": "SP15-PT002",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Lava Battleguard",
+        "set_number": "SP15-PT003",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mobius the Frost Monarch",
+        "set_number": "SP15-PT004",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "XX-Saber Fulhelmknight",
+        "set_number": "SP15-PT005",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "XX-Saber Boggart Knight",
+        "set_number": "SP15-PT006",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Constellar Algiedi",
+        "set_number": "SP15-PT007",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Constellar Kaus",
+        "set_number": "SP15-PT008",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mobius the Mega Monarch",
+        "set_number": "SP15-PT009",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Stargazer Magician",
+        "set_number": "SP15-PT010",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Timegazer Magician",
+        "set_number": "SP15-PT011",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Odd-Eyes Pendulum Dragon",
+        "set_number": "SP15-PT012",
+        "rarities": [
+          "Shatterfoil Rare"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1
+        }
+      },
+      {
+        "card_name": "Performapal Whip Snake",
+        "set_number": "SP15-PT013",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Sword Fish",
+        "set_number": "SP15-PT014",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Hip Hippo",
+        "set_number": "SP15-PT015",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Kaleidoscorp",
+        "set_number": "SP15-PT016",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Big Benkei",
+        "set_number": "SP15-PT017",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Aria the Melodious Diva",
+        "set_number": "SP15-PT018",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mozarta the Melodious Maestra",
+        "set_number": "SP15-PT019",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Battleguard King",
+        "set_number": "SP15-PT020",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Trampolynx",
+        "set_number": "SP15-PT021",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Edge Imp Sabres",
+        "set_number": "SP15-PT022",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Fluffal Bear",
+        "set_number": "SP15-PT023",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Fire Mufflerlion",
+        "set_number": "SP15-PT024",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Partnaga",
+        "set_number": "SP15-PT025",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Friendonkey",
+        "set_number": "SP15-PT026",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Trump Witch",
+        "set_number": "SP15-PT027",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Trumpeter",
+        "set_number": "SP15-PT028",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Vanishing Lanius",
+        "set_number": "SP15-PT029",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Master Diamond",
+        "set_number": "SP15-PT030",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Frightfur Bear",
+        "set_number": "SP15-PT031",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Rune-Eyes Pendulum Dragon",
+        "set_number": "SP15-PT032",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "X-Saber Souza",
+        "set_number": "SP15-PT033",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Superheavy Samurai Warlord Susanowo",
+        "set_number": "SP15-PT034",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Constellar Pleiades",
+        "set_number": "SP15-PT035",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dark Rebellion Xyz Dragon",
+        "set_number": "SP15-PT036",
+        "rarities": [
+          "Shatterfoil Rare"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Rise Falcon",
+        "set_number": "SP15-PT037",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Polymerization",
+        "set_number": "SP15-PT038",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gem-Knight Fusion",
+        "set_number": "SP15-PT039",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Hippo Carnival",
+        "set_number": "SP15-PT040",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Feast of the Wild LV5",
+        "set_number": "SP15-PT041",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wonder Balloons",
+        "set_number": "SP15-PT042",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Toy Vendor",
+        "set_number": "SP15-PT043",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Illusion Balloons",
+        "set_number": "SP15-PT044",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Nest",
+        "set_number": "SP15-PT045",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Command Performance",
+        "set_number": "SP15-PT046",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Performapal Revival",
+        "set_number": "SP15-PT047",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "The Phantom Knights of Shadow Veil",
+        "set_number": "SP15-PT048",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Wall of Disruption",
+        "set_number": "SP15-PT049",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Raidraptor - Readiness",
+        "set_number": "SP15-PT050",
+        "rarities": [
+          "Shatterfoil Rare",
+          "Common"
+        ],
+        "count": {
+          "Shatterfoil Rare": 1,
+          "Common": 1
+        }
+      }
+    ]
+  }
+}

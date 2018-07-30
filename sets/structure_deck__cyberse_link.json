@@ -1,0 +1,444 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Structure Deck: Cyberse Link",
+    "type": "Structure Deck",
+    "date": "2017-06-17",
+    "distribution": "structure_deck",
+    "prefix": "SD32",
+    "sub_sets": [],
+    "load": true,
+    "cards": [
+      {
+        "card_name": "Digitron",
+        "set_number": "SD32-JP001",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dotscaper",
+        "set_number": "SD32-JP002",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cliant",
+        "set_number": "SD32-JP003",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Backlinker",
+        "set_number": "SD32-JP004",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Balancer Lord",
+        "set_number": "SD32-JP005",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "ROM Cloudia",
+        "set_number": "SD32-JP006",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Boot Staggered",
+        "set_number": "SD32-JP007",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Dual Assembwurm",
+        "set_number": "SD32-JP008",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Tragoedia",
+        "set_number": "SD32-JP009",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Summoner Monk",
+        "set_number": "SD32-JP010",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "White Dragon Wyverburster",
+        "set_number": "SD32-JP011",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Black Dragon Collapserpent",
+        "set_number": "SD32-JP012",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Card Trooper",
+        "set_number": "SD32-JP013",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Debris Dragon",
+        "set_number": "SD32-JP014",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mathematician",
+        "set_number": "SD32-JP015",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Crane Crane",
+        "set_number": "SD32-JP016",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Morphing Jar",
+        "set_number": "SD32-JP017",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Magician of Faith",
+        "set_number": "SD32-JP018",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Treeborn Frog",
+        "set_number": "SD32-JP019",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Jester Confit",
+        "set_number": "SD32-JP020",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Glow-Up Bulb",
+        "set_number": "SD32-JP021",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Kinka-byo",
+        "set_number": "SD32-JP022",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cynet Backdoor",
+        "set_number": "SD32-JP023",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      },
+      {
+        "card_name": "Soul Charge",
+        "set_number": "SD32-JP024",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Shuffle Reborn",
+        "set_number": "SD32-JP025",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "D.D.R. - Different Dimension Reincarnation",
+        "set_number": "SD32-JP026",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Gold Sarcophagus",
+        "set_number": "SD32-JP027",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Mind Control",
+        "set_number": "SD32-JP028",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Cosmic Cyclone",
+        "set_number": "SD32-JP029",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Moon Mirror Shield",
+        "set_number": "SD32-JP030",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Where Arf Thou?",
+        "set_number": "SD32-JP031",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Recoded Alive",
+        "set_number": "SD32-JP032",
+        "rarities": [
+          "Normal Parallel Rare"
+        ],
+        "count": {
+          "Normal Parallel Rare": 1
+        }
+      },
+      {
+        "card_name": "Miracle's Wake",
+        "set_number": "SD32-JP033",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Powerful Rebirth",
+        "set_number": "SD32-JP034",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Premature Return",
+        "set_number": "SD32-JP035",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Swamp Mirrorer",
+        "set_number": "SD32-JP036",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Quantum Cat",
+        "set_number": "SD32-JP037",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Storming Mirror Force",
+        "set_number": "SD32-JP038",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Dimensional Barrier",
+        "set_number": "SD32-JP039",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Solemn Strike",
+        "set_number": "SD32-JP040",
+        "rarities": [
+          "Common"
+        ],
+        "count": {
+          "Common": 1
+        }
+      },
+      {
+        "card_name": "Encode Talker",
+        "set_number": "SD32-JP041",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Tri-Gate Wizard",
+        "set_number": "SD32-JP042",
+        "rarities": [
+          "Ultra Rare"
+        ],
+        "count": {
+          "Ultra Rare": 1
+        }
+      },
+      {
+        "card_name": "Binary Sorceress",
+        "set_number": "SD32-JP043",
+        "rarities": [
+          "Super Rare"
+        ],
+        "count": {
+          "Super Rare": 1
+        }
+      }
+    ]
+  }
+}
