@@ -7,7 +7,7 @@
     "distribution": "tournament_promo_cards",
     "prefix": "RGBT",
     "sub_sets": [],
-    "load": true,
+    "load": false,
     "cards": [
       {
         "card_name": "Battlestorm",
