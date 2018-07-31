@@ -1,0 +1,16 @@
+{
+    "status":"success",
+    "distribution":{
+        "array":[
+            {
+                "weight":1,
+                "rarities":[
+                    {
+                        "rarity":"Gold Rare",
+                        "count":1
+                    }
+                ]
+            }
+        ]
+    }
+}

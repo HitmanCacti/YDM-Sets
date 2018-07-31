@@ -1,0 +1,194 @@
+{
+  "status": "success",
+  "set": {
+    "name": "Premium Gold - Slot 2",
+    "type": "Gold Series",
+    "date": "2014-03-27",
+    "distribution": "gold_rare_1",
+    "prefix": "PGLD_2",
+    "sub_sets": [],
+    "load": false,
+    "cards": [ 
+      {
+        "card_name": "Dark Magician Girl",
+        "set_number": "PGLD-FR033",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Lonefire Blossom",
+        "set_number": "PGLD-FR034",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Honest",
+        "set_number": "PGLD-FR035",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Effect Veiler",
+        "set_number": "PGLD-FR036",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Gagaga Magician",
+        "set_number": "PGLD-FR037",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Galaxy-Eyes Photon Dragon",
+        "set_number": "PGLD-FR038",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Lightpulsar Dragon",
+        "set_number": "PGLD-FR039",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Darkflare Dragon",
+        "set_number": "PGLD-FR040",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Eclipse Wyvern",
+        "set_number": "PGLD-FR041",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Crane Crane",
+        "set_number": "PGLD-FR042",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Colossal Fighter",
+        "set_number": "PGLD-FR043",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Number 32: Shark Drake",
+        "set_number": "PGLD-FR044",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Brotherhood of the Fire Fist - Tiger King",
+        "set_number": "PGLD-FR045",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Solar Recharge",
+        "set_number": "PGLD-FR046",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Forbidden Chalice",
+        "set_number": "PGLD-FR047",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Forbidden Lance",
+        "set_number": "PGLD-FR048",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Forbidden Dress",
+        "set_number": "PGLD-FR049",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      },
+      {
+        "card_name": "Fire Formation - Tenki",
+        "set_number": "PGLD-FR050",
+        "rarities": [
+          "Gold Rare"
+        ],
+        "count": {
+          "Gold Rare": 1
+        }
+      }
+    ]
+  }
+}
