@@ -4,7 +4,7 @@
     "name": "Battle Pack 2: War of the Giants",
     "type": "Battle Pack",
     "date": "2013-06-27",
-    "distribution": "battle_pack",
+    "distribution": "bp02",
     "prefix": "BP02",
     "sub_sets": [],
     "load": true,
