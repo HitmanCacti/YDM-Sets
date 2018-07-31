@@ -4,7 +4,7 @@
     "name": "Battle Pack 3: Monster League",
     "type": "Battle Pack",
     "date": "2014-07-25",
-    "distribution": "bp03",
+    "distribution": "battle_pack",
     "prefix": "BP03",
     "sub_sets": [],
     "load": true,
