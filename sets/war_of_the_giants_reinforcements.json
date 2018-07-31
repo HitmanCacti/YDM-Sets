@@ -4,7 +4,7 @@
     "name": "War of the Giants Reinforcements",
     "type": "Battle Pack",
     "date": "2014-01-16",
-    "distribution": "battle_pack",
+    "distribution": "wgrt",
     "prefix": "WGRT",
     "sub_sets": [],
     "load": true,
