@@ -9,14 +9,14 @@
                         "rarity":"Common",
                         "count":9
                     },
-					{
-					    "rarity":"Super Rare",
-						"count":6
-					},
-					{
-						"rarity":"Ultra Rare",
-						"count":1
-					}
+                    {
+                      "rarity":"Super Rare",
+                      "count":6
+                    },
+                    {
+                      "rarity":"Ultra Rare",
+                      "count":1
+                    }
                 ]
             }
         ]
